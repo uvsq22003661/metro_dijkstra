@@ -1,0 +1,851 @@
+# stations et liens du métro parisien
+# format : V num sommet nom_sommet
+#          E num_sommet1 num_sommet1 temps_en_secondes
+V/0000/Abbesses/M12/Porte de la Chapelle, Mairie d'Issy 
+V/0001/Alexandre Dumas/M2/Porte Dauphine, Nation
+V/0002/Alma Marceau/M9/Pont de Sèvres, Mairie de Montreuil
+V/0003/Alésia/M4/Porte de Clignancourt, Porte d'Orléans
+V/0004/Anatole France/M3/Pont de Levallois — Bécon, Gallieni
+V/0005/Anvers/M2/Porte Dauphine, Nation
+V/0006/Argentine/M1/Grande Arche de la Défense, Château de Vincennes
+V/0007/Arts et Métiers/M11/Mairie des Lilas, Châtelet
+V/0008/Arts et Métiers/M3/Pont de Levallois — Bécon, Gallieni
+V/0009/Assemblée Nationale/M12/Porte de la Chapelle, Mairie d'Issy 
+V/0010/Aubervilliers-Pantin, Quatre Chemins/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0011/Avenue Émile Zola/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0012/Avron/M2/Porte Dauphine, Nation
+V/0013/Barbès Rochechouart/M2/Porte Dauphine, Nation
+V/0014/Barbès Rochechouart/M4/Porte de Clignancourt, Porte d'Orléans
+V/0015/Basilique de Saint-Denis/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0016/Bastille/M1/Grande Arche de la Défense, Château de Vincennes
+V/0017/Bastille/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0018/Bastille/M8/Place Balard, Créteil — Préfecture
+V/0019/Bel Air/M6/Charles de Gaulle — Étoile, Nation
+V/0020/Belleville/M11/Mairie des Lilas, Châtelet
+V/0021/Belleville/M2/Porte Dauphine, Nation
+V/0022/Bercy/M14/Madeleine, Bibliothèque François Mitterand
+V/0023/Bercy/M6/Charles de Gaulle — Étoile, Nation
+V/0024/Bibliothèque François Mitterand/M14/Madeleine, Bibliothèque François Mitterand
+V/0025/Billancourt/M9/Pont de Sèvres, Mairie de Montreuil
+V/0026/Bir-Hakeim/M6/Charles de Gaulle — Étoile, Nation
+V/0027/Blanche/M2/Porte Dauphine, Nation
+V/0028/Bobigny - Pablo Picasso/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0029/Bobigny-Pantin, Raymond Queneau/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0030/Boissière/M6/Charles de Gaulle — Étoile, Nation
+V/0031/Bolivar/M7bis/Louis Blanc, Pré Saint-Gervais 
+V/0032/Bonne Nouvelle/M8/Place Balard, Créteil — Préfecture
+V/0033/Bonne Nouvelle/M9/Pont de Sèvres, Mairie de Montreuil
+V/0034/Botzaris/M7bis/Louis Blanc, Pré Saint-Gervais 
+V/0035/Boucicaut/M8/Place Balard, Créteil — Préfecture
+V/0036/Boulogne, Jean Jaurès/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0037/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0038/Bourse/M3/Pont de Levallois — Bécon, Gallieni
+V/0039/Brochant/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0040/Bréguet-Sabin/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0041/Buttes Chaumont/M7bis/Louis Blanc, Pré Saint-Gervais 
+V/0042/Buzenval/M9/Pont de Sèvres, Mairie de Montreuil
+V/0043/Bérault/M1/Grande Arche de la Défense, Château de Vincennes
+V/0044/Cadet/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0045/Cambronne/M6/Charles de Gaulle — Étoile, Nation
+V/0046/Campo-Formio/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0047/Cardinal Lemoine/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0048/Carrefour Pleyel/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0049/Censier Daubenton/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0050/Champs Élysées, Clémenceau/M1/Grande Arche de la Défense, Château de Vincennes
+V/0051/Champs Élysées, Clémenceau/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0052/Chardon Lagâche/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0053/Charenton-Écoles/M8/Place Balard, Créteil — Préfecture
+V/0054/Charles Michels/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0055/Charles de Gaulle — Étoile/M1/Grande Arche de la Défense, Château de Vincennes
+V/0056/Charles de Gaulle — Étoile/M2/Porte Dauphine, Nation
+V/0057/Charles de Gaulle — Étoile/M6/Charles de Gaulle — Étoile, Nation
+V/0058/Charonne/M9/Pont de Sèvres, Mairie de Montreuil
+V/0059/Chaussée d'Antin, La Fayette/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0060/Chaussée d'Antin, La Fayette/M9/Pont de Sèvres, Mairie de Montreuil
+V/0061/Chemin Vert/M8/Place Balard, Créteil — Préfecture
+V/0062/Chevaleret/M6/Charles de Gaulle — Étoile, Nation
+V/0063/Château Landon/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0064/Château Rouge/M4/Porte de Clignancourt, Porte d'Orléans
+V/0065/Château d'Eau/M4/Porte de Clignancourt, Porte d'Orléans
+V/0066/Château de Vincennes/M1/Grande Arche de la Défense, Château de Vincennes
+V/0067/Châtelet/M1/Grande Arche de la Défense, Château de Vincennes
+V/0068/Châtelet/M11/Mairie des Lilas, Châtelet
+V/0069/Châtelet/M14/Madeleine, Bibliothèque François Mitterand
+V/0070/Châtelet/M4/Porte de Clignancourt, Porte d'Orléans
+V/0071/Châtelet/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0072/Châtillon — Montrouge/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0073/Cité/M4/Porte de Clignancourt, Porte d'Orléans
+V/0074/Cluny, La Sorbonne/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0075/Colonel Fabien/M2/Porte Dauphine, Nation
+V/0076/Commerce/M8/Place Balard, Créteil — Préfecture
+V/0077/Concorde/M1/Grande Arche de la Défense, Château de Vincennes
+V/0078/Concorde/M12/Porte de la Chapelle, Mairie d'Issy
+V/0079/Concorde/M8/Place Balard, Créteil — Préfecture 
+V/0080/Convention/M12/Porte de la Chapelle, Mairie d'Issy
+V/0081/Corentin Celton/M12/Porte de la Chapelle, Mairie d'Issy
+V/0082/Corentin-Cariou/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0083/Corvisart/M6/Charles de Gaulle — Étoile, Nation
+V/0084/Cour Saint-Émilion/M14/Madeleine, Bibliothèque François Mitterand
+V/0085/Courcelles/M2/Porte Dauphine, Nation
+V/0086/Couronnes/M2/Porte Dauphine, Nation
+V/0087/Crimée/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0088/Croix de Chavaux/M9/Pont de Sèvres, Mairie de Montreuil
+V/0089/Créteil — Préfecture/M8/Place Balard, Créteil — Préfecture
+V/0090/Créteil-Université/M8/Place Balard, Créteil — Préfecture
+V/0091/Créteil-l'Echat, Hôpital Henri Mondor/M8/Place Balard, Créteil — Préfecture
+V/0092/Danube/M7bis/Louis Blanc, Pré Saint-Gervais 
+V/0093/Daumesnil/M6/Charles de Gaulle — Étoile, Nation
+V/0094/Daumesnil/M8/Place Balard, Créteil — Préfecture
+V/0095/Denfert Rochereau/M4/Porte de Clignancourt, Porte d'Orléans
+V/0096/Denfert Rochereau/M6/Charles de Gaulle — Étoile, Nation
+V/0097/Dugommier/M6/Charles de Gaulle — Étoile, Nation
+V/0098/Dupleix/M6/Charles de Gaulle — Étoile, Nation
+V/0099/Duroc/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0100/Duroc/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0101/Edgar Quinet/M6/Charles de Gaulle — Étoile, Nation
+V/0102/Esplanade de la Défense/M1/Grande Arche de la Défense, Château de Vincennes
+V/0103/Europe/M3/Pont de Levallois — Bécon, Gallieni
+V/0104/Exelmans/M9/Pont de Sèvres, Mairie de Montreuil
+V/0105/Faidherbe-Chaligny/M8/Place Balard, Créteil — Préfecture
+V/0106/Falguière/M12/Porte de la Chapelle, Mairie d'Issy 
+V/0107/Filles du Calvaire/M8/Place Balard, Créteil — Préfecture
+V/0108/Fort d'Aubervilliers/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0109/Franklin D. Roosevelt/M1/Grande Arche de la Défense, Château de Vincennes
+V/0110/Franklin D. Roosevelt/M9/Pont de Sèvres, Mairie de Montreuil
+V/0111/Félix Faure/M8/Place Balard, Créteil — Préfecture
+V/0112/Gabriel Péri - Asnières - Gennevilliers/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0113/Gaité/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0114/Gallieni/M3/Pont de Levallois — Bécon, Gallieni
+V/0115/Gambetta/M3/Pont de Levallois — Bécon, Gallieni
+V/0116/Gambetta/M3bis/Porte des Lilas, Gambetta
+V/0117/Gare d'Austerlitz/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0118/Gare d'Austerlitz/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0119/Gare de Lyon/M1/Grande Arche de la Défense, Château de Vincennes
+V/0120/Gare de Lyon/M14/Madeleine, Bibliothèque François Mitterand
+V/0121/Gare de l'Est/M4/Porte de Clignancourt, Porte d'Orléans
+V/0122/Gare de l'Est/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0123/Gare de l'Est/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0124/Gare du Nord/M4/Porte de Clignancourt, Porte d'Orléans
+V/0125/Gare du Nord/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0126/Garibaldi/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0127/George V/M1/Grande Arche de la Défense, Château de Vincennes
+V/0128/Glacière/M6/Charles de Gaulle — Étoile, Nation
+V/0129/Goncourt/M11/Mairie des Lilas, Châtelet
+V/0130/Grande Arche de la Défense/M1/Grande Arche de la Défense, Château de Vincennes 
+V/0131/Guy Môquet/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0132/Havre Caumartin/M3/Pont de Levallois — Bécon, Gallieni
+V/0133/Havre Caumartin/M9/Pont de Sèvres, Mairie de Montreuil
+V/0134/Hoche/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0135/Hôtel de Ville/M1/Grande Arche de la Défense, Château de Vincennes
+V/0136/Hôtel de Ville/M11/Mairie des Lilas, Châtelet
+V/0137/Invalides/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0138/Invalides/M8/Place Balard, Créteil — Préfecture
+V/0139/Iéna/M9/Pont de Sèvres, Mairie de Montreuil
+V/0140/Jacques Bonsergent/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0141/Jasmin/M9/Pont de Sèvres, Mairie de Montreuil
+V/0142/Jaurès/M2/Porte Dauphine, Nation
+V/0143/Jaurès/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0144/Jaurès/M7bis/Louis Blanc, Pré Saint-Gervais
+V/0145/Javel/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0146/Jourdain/M11/Mairie des Lilas, Châtelet
+V/0147/Jules Joffrin/M12/Porte de la Chapelle, Mairie d'Issy
+V/0148/Jussieu/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0149/Jussieu/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0150/Kléber/M6/Charles de Gaulle — Étoile, Nation
+V/0151/La Chapelle/M2/Porte Dauphine, Nation
+V/0152/La Courneuve — 8 Mai 1945/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0153/La Fourche/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0154/La Motte Picquet, Grenelle/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0155/La Motte Picquet, Grenelle/M6/Charles de Gaulle — Étoile, Nation
+V/0156/La Motte Picquet, Grenelle/M8/Place Balard, Créteil — Préfecture
+V/0157/La Muette/M9/Pont de Sèvres, Mairie de Montreuil
+V/0158/La Tour-Maubourg/M8/Place Balard, Créteil — Préfecture
+V/0159/Lamarck Caulaincourt/M12/Porte de la Chapelle, Mairie d'Issy
+V/0160/Laumière/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0161/Le Kremlin-Bicêtre/M7/La Courneuve — 8 Mai 1945, Villejuif — Louis Aragon
+V/0162/Le Peletier/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0163/Ledru Rollin/M8/Place Balard, Créteil — Préfecture
+V/0164/Les Gobelins/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0165/Les Halles/M4/Porte de Clignancourt, Porte d'Orléans
+V/0166/Les Sablons/M1/Grande Arche de la Défense, Château de Vincennes
+V/0167/Liberté/M8/Place Balard, Créteil — Préfecture
+V/0168/Liège/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0169/Louis Blanc/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0170/Louis Blanc/M7bis/Louis Blanc, Pré Saint-Gervais
+V/0171/Louise Michel/M3/Pont de Levallois — Bécon, Gallieni
+V/0172/Lourmel/M8/Place Balard, Créteil — Préfecture
+V/0173/Louvre, Rivoli/M1/Grande Arche de la Défense, Château de Vincennes
+V/0174/Mabillon/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0175/Madeleine/M12/Porte de la Chapelle, Mairie d'Issy
+V/0176/Madeleine/M14/Madeleine, Bibliothèque François Mitterand
+V/0177/Madeleine/M8/Place Balard, Créteil — Préfecture
+V/0178/Mairie d'Issy/M12/Porte de la Chapelle, Mairie d'Issy
+V/0179/Mairie d'Ivry/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry
+V/0180/Mairie de Clichy/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0181/Mairie de Montreuil/M9/Pont de Sèvres, Mairie de Montreuil
+V/0182/Mairie de Saint-Ouen/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0183/Mairie des Lilas/M11/Mairie des Lilas, Châtelet
+V/0184/Maison Blanche/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0185/Maisons-Alfort les Juilliottes/M8/Place Balard, Créteil — Préfecture
+V/0186/Maisons-Alfort, Stade/M8/Place Balard, Créteil — Préfecture
+V/0187/Malakoff-Plateau de Vanves/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0188/Malakoff-Rue Étienne Dolet/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0189/Malesherbes/M3/Pont de Levallois — Bécon, Gallieni
+V/0190/Maraîchers/M9/Pont de Sèvres, Mairie de Montreuil
+V/0191/Marcadet Poissonniers/M12/Porte de la Chapelle, Mairie d'Issy
+V/0192/Marcadet Poissonniers/M4/Porte de Clignancourt, Porte d'Orléans
+V/0193/Marcel Sembat/M9/Pont de Sèvres, Mairie de Montreuil
+V/0194/Marx Dormoy/M12/Porte de la Chapelle, Mairie d'Issy
+V/0195/Maubert Mutualité/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0196/Michel Ange Auteuil/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0197/Michel Ange Auteuil/M9/Pont de Sèvres, Mairie de Montreuil
+V/0198/Michel Ange Molitor/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz 
+V/0199/Michel Ange Molitor/M9/Pont de Sèvres, Mairie de Montreuil
+V/0200/Michel Bizot/M8/Place Balard, Créteil — Préfecture
+V/0201/Mirabeau/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0202/Miromesnil/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0203/Miromesnil/M9/Pont de Sèvres, Mairie de Montreuil
+V/0204/Monceau/M2/Porte Dauphine , Nation
+V/0205/Montgallet/M8/Place Balard, Créteil — Préfecture
+V/0206/Montparnasse Bienvenue/M12/Porte de la Chapelle, Mairie d'Issy
+V/0207/Montparnasse Bienvenue/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0208/Montparnasse Bienvenue/M4/Porte de Clignancourt, Porte d'Orléans
+V/0209/Montparnasse Bienvenue/M6/Charles de Gaulle — Étoile, Nation
+V/0210/Mouton-Duvernet/M4/Porte de Clignancourt, Porte d'Orléans
+V/0211/Ménilmontant/M2/Porte Dauphine, Nation
+V/0212/Nation/M1/Grande Arche de la Défense, Château de Vincennes
+V/0213/Nation/M2/Porte Dauphine, Nation
+V/0214/Nation/M6/Charles de Gaulle — Étoile, Nation
+V/0215/Nation/M9/Pont de Sèvres, Mairie de Montreuil
+V/0216/Nationale/M6/Charles de Gaulle — Étoile, Nation
+V/0217/Notre Dame de Lorette/M12/Porte de la Chapelle, Mairie d'Issy
+V/0218/Notre-Dame-des-Champs/M12/Porte de la Chapelle, Mairie d'Issy
+V/0219/Oberkampf/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0220/Oberkampf/M9/Pont de Sèvres, Mairie de Montreuil
+V/0221/Odéon/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0222/Odéon/M4/Porte de Clignancourt, Porte d'Orléans
+V/0223/Opéra/M3/Pont de Levallois — Bécon, Gallieni
+V/0224/Opéra/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0225/Opéra/M8/Place Balard, Créteil — Préfecture
+V/0226/Ourcq/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0227/Palais Royal, Musée du Louvre/M1/Grande Arche de la Défense, Château de Vincennes
+V/0228/Palais Royal, Musée du Louvre/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0229/Parmentier/M3/Pont de Levallois — Bécon, Gallieni
+V/0230/Passy/M6/Charles de Gaulle — Étoile, Nation
+V/0231/Pasteur/M12/Porte de la Chapelle, Mairie d'Issy
+V/0232/Pasteur/M6/Charles de Gaulle — Étoile, Nation
+V/0233/Pelleport/M3bis/Porte des Lilas, Gambetta
+V/0234/Pernety/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0235/Philippe-Auguste/M2/Porte Dauphine, Nation
+V/0236/Picpus/M6/Charles de Gaulle — Étoile, Nation
+V/0237/Pierre Curie/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry
+V/0238/Pigalle/M12/Porte de la Chapelle, Mairie d'Issy
+V/0239/Pigalle/M2/Porte Dauphine, Nation
+V/0240/Place Balard/M8/Place Balard, Créteil — Préfecture
+V/0241/Place Monge/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0242/Place d'Italie/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0243/Place d'Italie/M6/Charles de Gaulle — Étoile, Nation
+V/0244/Place d'Italie/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0245/Place de Clichy/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0246/Place de Clichy/M2/Porte Dauphine, Nation
+V/0247/Place des Fêtes/M11/Mairie des Lilas, Châtelet
+V/0248/Place des Fêtes/M7bis/Louis Blanc, Pré Saint-Gervais
+V/0249/Plaisance/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0250/Poissonnière/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0251/Pont de Levallois — Bécon/M3/Pont de Levallois — Bécon, Gallieni
+V/0252/Pont de Neuilly/M1/Grande Arche de la Défense, Château de Vincennes
+V/0253/Pont de Sèvres/M9/Pont de Sèvres, Mairie de Montreuil
+V/0254/Pont-Marie/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0255/Pont-Neuf/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0256/Porte Dauphine/M2/Porte Dauphine, Nation
+V/0257/Porte Dorée/M8/Place Balard, Créteil — Préfecture
+V/0258/Porte Maillot/M1/Grande Arche de la Défense, Château de Vincennes
+V/0259/Porte d'Auteuil/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0260/Porte d'Italie/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry
+V/0261/Porte d'Ivry/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry
+V/0262/Porte d'Orléans/M4/Porte de Clignancourt, Porte d'Orléans
+V/0263/Porte de Bagnolet/M3/Pont de Levallois — Bécon, Gallieni
+V/0264/Porte de Champerret/M3/Pont de Levallois — Bécon, Gallieni
+V/0265/Porte de Charenton/M8/Place Balard, Créteil — Préfecture
+V/0266/Porte de Choisy/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry
+V/0267/Porte de Clichy/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0268/Porte de Clignancourt/M4/Porte de Clignancourt, Porte d'Orléans
+V/0269/Porte de Montreuil/M9/Pont de Sèvres, Mairie de Montreuil
+V/0270/Porte de Pantin/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0271/Porte de Saint-Cloud/M9/Pont de Sèvres, Mairie de Montreuil
+V/0272/Porte de Saint-Ouen/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0273/Porte de Vanves/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0274/Porte de Versailles/M12/Porte de la Chapelle, Mairie d'Issy
+V/0275/Porte de Vincennes/M1/Grande Arche de la Défense, Château de Vincennes
+V/0276/Porte de la Chapelle/M12/Porte de la Chapelle, Mairie d'Issy
+V/0277/Porte de la Villette/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0278/Porte des Lilas/M11/Mairie des Lilas, Châtelet
+V/0279/Porte des Lilas/M3bis/Porte des Lilas, Gambetta
+V/0280/Pré-Saint-Gervais/M7bis/Louis Blanc, Pré Saint-Gervais 
+V/0281/Pyramides/M14/Madeleine, Bibliothèque François Mitterand
+V/0282/Pyramides/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0283/Pyrénées/M11/Mairie des Lilas, Châtelet
+V/0284/Père Lachaise/M2/Porte Dauphine, Nation
+V/0285/Père Lachaise/M3/Pont de Levallois — Bécon, Gallieni
+V/0286/Péreire/M3/Pont de Levallois — Bécon, Gallieni
+V/0287/Quai de la Gare/M6/Charles de Gaulle — Étoile, Nation
+V/0288/Quai de la Rapée/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0289/Quatre Septembre/M3/Pont de Levallois — Bécon, Gallieni
+V/0290/Rambuteau/M11/Mairie des Lilas, Châtelet
+V/0291/Ranelagh/M9/Pont de Sèvres, Mairie de Montreuil
+V/0292/Raspail/M4/Porte de Clignancourt, Porte d'Orléans
+V/0293/Raspail/M6/Charles de Gaulle — Étoile, Nation
+V/0294/Rennes/M12/Porte de la Chapelle, Mairie d'Issy
+V/0295/Reuilly Diderot/M1/Grande Arche de la Défense, Château de Vincennes
+V/0296/Reuilly Diderot/M8/Place Balard, Créteil — Préfecture
+V/0297/Richard Lenoir/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0298/Richelieu Drouot/M8/Place Balard, Créteil — Préfecture
+V/0299/Richelieu Drouot/M9/Pont de Sèvres, Mairie de Montreuil
+V/0300/Riquet/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0301/Robespierre/M9/Pont de Sèvres, Mairie de Montreuil
+V/0302/Rome/M2/Porte Dauphine, Nation
+V/0303/Rue Montmartre, Grands Boulevards/M8/Place Balard, Créteil — Préfecture
+V/0304/Rue Montmartre, Grands Boulevards/M9/Pont de Sèvres, Mairie de Montreuil
+V/0305/Rue Saint-Maur/M3/Pont de Levallois — Bécon, Gallieni
+V/0306/Rue de la Pompe/M9/Pont de Sèvres, Mairie de Montreuil
+V/0307/Rue des Boulets/M9/Pont de Sèvres, Mairie de Montreuil
+V/0308/Rue du Bac/M12/Porte de la Chapelle, Mairie d'Issy
+V/0309/Réaumur Sébastopol/M3/Pont de Levallois — Bécon, Gallieni
+V/0310/Réaumur Sébastopol/M4/Porte de Clignancourt, Porte d'Orléans
+V/0311/République/M11/Mairie des Lilas, Châtelet
+V/0312/République/M3/Pont de Levallois — Bécon, Gallieni
+V/0313/République/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0314/République/M8/Place Balard, Créteil — Préfecture
+V/0315/République/M9/Pont de Sèvres, Mairie de MontreuilM11/Mairie des Lilas, Châtelet
+V/0316/Saint-Ambroise/M9/Pont de Sèvres, Mairie de Montreuil
+V/0317/Saint-Augustin/M9/Pont de Sèvres, Mairie de Montreuil
+V/0318/Saint-Denis-Porte de Paris/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0319/Saint-Denis-Université/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0320/Saint-Fargeau/M3bis/Porte des Lilas, Gambetta
+V/0321/Saint-Francois Xavier/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0322/Saint-Georges/M12/Porte de la Chapelle, Mairie d'Issy
+V/0323/Saint-Germain-des-Prés/M4/Porte de Clignancourt, Porte d'Orléans
+V/0324/Saint-Jacques/M6/Charles de Gaulle — Étoile, Nation
+V/0325/Saint-Lazare/M12/Porte de la Chapelle, Mairie d'Issy
+V/0326/Saint-Lazare/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0327/Saint-Lazare/M3/Pont de Levallois — Bécon, Gallieni
+V/0328/Saint-Mandé, Tourelle/M1/Grande Arche de la Défense, Château de Vincennes
+V/0329/Saint-Marcel/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0330/Saint-Michel/M4/Porte de Clignancourt, Porte d'Orléans
+V/0331/Saint-Paul, Le Marais/M1/Grande Arche de la Défense, Château de Vincennes
+V/0332/Saint-Philippe du Roule/M9/Pont de Sèvres, Mairie de Montreuil
+V/0333/Saint-Placide/M4/Porte de Clignancourt, Porte d'Orléans
+V/0334/Saint-Sulpice/M4/Porte de Clignancourt, Porte d'Orléans
+V/0335/Saint-Sébastien-Froissart/M8/Place Balard, Créteil — Préfecture
+V/0336/Sentier/M3/Pont de Levallois — Bécon, Gallieni
+V/0337/Simplon/M4/Porte de Clignancourt, Porte d'Orléans
+V/0338/Solférino/M12/Porte de la Chapelle, Mairie d'Issy
+V/0339/Stalingrad/M2/Porte Dauphine, Nation
+V/0340/Stalingrad/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0341/Stalingrad/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0342/Strasbourg Saint-Denis/M4/Porte de Clignancourt, Porte d'Orléans
+V/0343/Strasbourg Saint-Denis/M8/Place Balard, Créteil — Préfecture
+V/0344/Strasbourg Saint-Denis/M9/Pont de Sèvres, Mairie de Montreuil
+V/0345/Sully Morland/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0346/Sèvres Babylone/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0347/Sèvres Babylone/M12/Porte de la Chapelle, Mairie d'Issy
+V/0348/Sèvres Lecourbe/M6/Charles de Gaulle — Étoile, Nation
+V/0349/Ségur/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0350/Temple/M3/Pont de Levallois — Bécon, Gallieni
+V/0351/Ternes/M2/Porte Dauphine, Nation
+V/0352/Tolbiac/M7/La Courneuve — 8 Mai 1945, Mairie d'Ivry, Villejuif — Louis Aragon
+V/0353/Trinité d'Estienne d'Orves/M12/Porte de la Chapelle, Mairie d'Issy
+V/0354/Trocadéro/M6/Charles de Gaulle — Étoile, Nation
+V/0355/Trocadéro/M9/Pont de Sèvres, Mairie de Montreuil
+V/0356/Tuileries/M1/Grande Arche de la Défense, Château de Vincennes
+V/0357/Télégraphe/M11/Mairie des Lilas, Châtelet
+V/0358/Vaneau/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0359/Varenne/M13/Gabriel Péri - Asnières - Gennevilliers, Châtillon — Montrouge
+V/0360/Vaugirard/M12/Porte de la Chapelle, Mairie d'Issy
+V/0361/Vavin/M4/Porte de Clignancourt, Porte d'Orléans
+V/0362/Victor Hugo/M2/Porte Dauphine, Nation
+V/0363/Villejuif, Louis Aragon/M7/La Courneuve — 8 Mai 1945, Villejuif — Louis Aragon
+V/0364/Villejuif, Léo Lagrange/M7/La Courneuve — 8 Mai 1945, Villejuif — Louis Aragon
+V/0365/Villejuif, P. Vaillant Couturier/M7/La Courneuve — 8 Mai 1945, Villejuif — Louis Aragon
+V/0366/Villiers/M2/Porte Dauphine, Nation
+V/0367/Villiers/M3/Pont de Levallois — Bécon, Gallieni
+V/0368/Volontaires/M12/Porte de la Chapelle, Mairie d'Issy
+V/0369/Voltaire/M9/Pont de Sèvres, Mairie de Montreuil
+V/0370/Wagram/M3/Pont de Levallois — Bécon, Gallieni
+V/0371/École Militaire/M8/Place Balard, Créteil — Préfecture
+V/0372/École Vétérinaire de Maisons-Alfort/M8/Place Balard, Créteil — Préfecture
+V/0373/Église d'Auteuil/M10/Boulogne — Pont de Saint-Cloud, Rond Point Rhin et Danube, Gare d'Austerlitz
+V/0374/Église de Pantin/M5/Bobigny - Pablo Picasso, Place d'Italie
+V/0375/Étienne Marcel/M4/Porte de Clignancourt, Porte d'Orléans
+E 0 238 41
+E 0 159 46
+E 1 12 36
+E 1 235 44
+E 2 110 69
+E 2 139 50
+E 3 262 33
+E 3 210 41
+E 4 171 43
+E 4 251 35
+E 5 13 67
+E 5 239 54
+E 6 55 56
+E 6 258 46
+E 7 290 39
+E 7 311 79
+E 8 350 38
+E 8 309 58
+E 9 338 28
+E 9 78 62
+E 10 277 42
+E 10 108 36
+E 11 154 32
+E 11 54 41
+E 12 213 42
+E 13 151 57
+E 14 124 46
+E 14 64 28
+E 15 318 37
+E 15 319 73
+E 16 119 98
+E 16 331 62
+E 17 288 89
+E 17 40 41
+E 18 163 32
+E 18 61 56
+E 19 236 31
+E 19 93 33
+E 20 129 48
+E 20 283 38
+E 21 86 46
+E 21 75 51
+E 22 84 39
+E 22 120 81
+E 23 97 35
+E 23 287 57
+E 24 84 51
+E 25 193 42
+E 25 253 35
+E 26 98 31
+E 26 230 64
+E 27 239 64
+E 27 246 59
+E 28 29 79
+E 29 374 46
+E 30 354 24
+E 30 150 44
+E 31 41 28
+E 31 144 36
+E 32 343 54
+E 32 303 41
+E 33 344 52
+E 33 304 41
+E 34 248 36
+E 34 41 57
+E 35 111 34
+E 35 172 40
+E 36 198 105
+E 36 37 39
+E 38 336 35
+E 38 289 38
+E 39 153 38
+E 39 267 46
+E 40 297 37
+E 42 190 42
+E 42 215 35
+E 43 66 41
+E 43 328 57
+E 44 162 54
+E 44 250 64
+E 45 348 43
+E 45 155 35
+E 46 242 63
+E 46 329 46
+E 47 148 46
+E 47 195 41
+E 48 182 66
+E 48 318 60
+E 49 164 42
+E 49 241 40
+E 50 77 54
+E 50 109 62
+E 51 137 62
+E 51 202 69
+E 52 201 20
+E 53 372 47
+E 53 167 33
+E 54 145 51
+E 55 127 60
+E 56 351 59
+E 56 362 75
+E 57 150 35
+E 58 307 31
+E 58 369 31
+E 59 224 72
+E 59 162 53
+E 60 299 63
+E 60 133 45
+E 61 335 28
+E 62 287 53
+E 62 216 48
+E 63 123 44
+E 63 169 57
+E 64 192 57
+E 65 342 41
+E 65 121 57
+E 67 135 87
+E 67 173 51
+E 68 136 85
+E 69 120 287
+E 69 281 131
+E 70 73 45
+E 70 165 66
+E 71 254 73
+E 71 255 37
+E 72 188 52
+E 73 330 46
+E 74 195 44
+E 74 221 52
+E 75 142 93
+E 76 156 59
+E 76 111 30
+E 77 356 57
+E 78 175 41
+E 79 177 41
+E 79 138 71
+E 80 274 41
+E 80 360 49
+E 81 178 43
+E 81 274 43
+E 82 87 32
+E 82 277 47
+E 83 243 36
+E 83 128 49
+E 85 204 47
+E 85 351 46
+E 86 211 37
+E 87 300 43
+E 88 181 44
+E 88 301 47
+E 89 90 29
+E 90 91 26
+E 91 185 27
+E 92 34 37
+E 93 97 45
+E 94 200 27
+E 94 205 39
+E 95 210 48
+E 95 292 37
+E 96 324 52
+E 96 293 42
+E 98 155 69
+E 99 358 31
+E 99 349 54
+E 100 207 113
+E 100 321 59
+E 101 293 43
+E 101 209 36
+E 102 252 35
+E 102 130 37
+E 103 327 44
+E 103 367 30
+E 104 199 62
+E 104 271 40
+E 105 296 42
+E 105 163 47
+E 106 231 29
+E 106 206 36
+E 107 335 49
+E 107 314 49
+E 108 152 29
+E 109 127 59
+E 110 332 37
+E 112 180 71
+E 113 234 36
+E 113 207 47
+E 114 263 72
+E 115 263 39
+E 115 285 70
+E 116 233 50
+E 117 148 59
+E 118 329 60
+E 118 288 30
+E 119 295 41
+E 121 124 67
+E 122 140 103
+E 122 125 59
+E 123 250 51
+E 125 340 107
+E 126 272 37
+E 126 182 42
+E 128 324 42
+E 129 311 49
+E 131 153 72
+E 131 272 63
+E 132 223 68
+E 132 327 40
+E 133 317 49
+E 134 270 47
+E 134 374 53
+E 135 331 65
+E 136 290 73
+E 137 359 54
+E 138 158 57
+E 139 355 46
+E 140 313 47
+E 141 291 37
+E 141 197 49
+E 142 339 27
+E 143 340 29
+E 143 160 44
+E 144 170 46
+E 145 373 55
+E 146 283 33
+E 146 247 50
+E 147 159 44
+E 147 191 49
+E 149 241 57
+E 149 345 79
+E 151 339 93
+E 153 245 64
+E 154 349 33
+E 156 371 46
+E 157 306 36
+E 157 291 49
+E 158 371 66
+E 160 226 40
+E 161 364 28
+E 161 184 39
+E 164 244 60
+E 165 375 33
+E 166 258 38
+E 166 252 37
+E 167 265 31
+E 168 326 49
+E 168 245 28
+E 169 341 54
+E 171 264 49
+E 172 240 35
+E 173 227 34
+E 174 221 31
+E 174 346 72
+E 175 325 144
+E 176 281 71
+E 177 225 88
+E 179 237 37
+E 180 267 91
+E 183 278 51
+E 184 260 31
+E 184 352 36
+E 185 186 26
+E 186 372 33
+E 187 188 34
+E 187 273 46
+E 189 367 49
+E 189 370 35
+E 190 269 27
+E 191 194 67
+E 192 337 36
+E 193 271 38
+E 194 276 67
+E 196 259 47
+E 197 199 28
+E 198 52 42
+E 200 257 51
+E 201 145 46
+E 202 326 112
+E 203 317 53
+E 203 332 40
+E 204 366 51
+E 205 296 38
+E 206 218 45
+E 208 361 42
+E 208 333 48
+E 209 232 54
+E 211 284 49
+E 212 275 86
+E 212 295 64
+E 214 236 42
+E 215 307 60
+E 216 243 55
+E 217 353 29
+E 217 322 37
+E 218 294 38
+E 219 297 50
+E 219 313 81
+E 220 316 35
+E 220 315 80
+E 222 323 42
+E 222 330 31
+E 223 289 43
+E 224 282 80
+E 225 298 75
+E 226 270 39
+E 227 356 38
+E 228 255 53
+E 228 282 49
+E 229 305 43
+E 229 312 64
+E 230 354 62
+E 231 368 40
+E 232 348 46
+E 233 320 33
+E 234 249 38
+E 235 284 44
+E 237 261 37
+E 238 322 27
+E 244 352 37
+E 246 302 37
+E 247 357 23
+E 248 280 57
+E 249 273 35
+E 254 345 75
+E 256 362 37
+E 257 265 26
+E 259 36 84
+E 260 266 37
+E 261 266 46
+E 264 286 41
+E 268 337 39
+E 269 301 35
+E 275 328 41
+E 278 357 59
+E 279 320 37
+E 280 92 43
+E 285 305 61
+E 286 370 35
+E 292 361 38
+E 294 347 46
+E 298 303 46
+E 299 304 48
+E 300 341 46
+E 302 366 53
+E 306 355 33
+E 308 347 29
+E 308 338 33
+E 309 336 65
+E 310 375 28
+E 310 342 67
+E 312 350 37
+E 314 343 98
+E 315 344 107
+E 316 369 27
+E 321 359 23
+E 323 334 47
+E 325 353 69
+E 333 334 32
+E 346 358 33
+E 360 368 47
+E 363 365 28
+E 364 365 28
+E 373 196 37
+E 7 8 180
+E 13 14 180
+E 16 18 240
+E 16 17 240
+E 17 18 240
+E 20 21 180
+E 22 23 180
+E 32 33 180
+E 50 51 180
+E 55 57 240
+E 55 56 240
+E 56 57 240
+E 59 60 180
+E 67 69 300
+E 67 68 300
+E 67 70 300
+E 67 71 300
+E 68 69 300
+E 68 70 300
+E 68 71 300
+E 69 70 300
+E 69 71 300
+E 70 71 300
+E 77 79 240
+E 77 78 240
+E 78 79 240
+E 93 94 180
+E 95 96 180
+E 99 100 180
+E 109 110 180
+E 115 116 180
+E 117 118 180
+E 119 120 180
+E 121 123 240
+E 121 122 240
+E 122 123 240
+E 124 125 180
+E 132 133 180
+E 135 136 180
+E 137 138 180
+E 142 144 240
+E 142 143 240
+E 143 144 240
+E 148 149 180
+E 154 156 240
+E 154 155 240
+E 155 156 240
+E 169 170 180
+E 175 177 240
+E 175 176 240
+E 176 177 240
+E 191 192 180
+E 196 197 180
+E 198 199 180
+E 202 203 180
+E 206 208 300
+E 206 207 300
+E 206 209 300
+E 207 208 300
+E 207 209 300
+E 208 209 300
+E 212 214 300
+E 212 213 300
+E 212 215 300
+E 213 214 300
+E 213 215 300
+E 214 215 300
+E 219 220 180
+E 221 222 180
+E 223 225 240
+E 223 224 240
+E 224 225 240
+E 227 228 180
+E 231 232 180
+E 238 239 180
+E 242 244 240
+E 242 243 240
+E 243 244 240
+E 245 246 180
+E 247 248 180
+E 278 279 180
+E 281 282 180
+E 284 285 180
+E 292 293 180
+E 295 296 180
+E 298 299 180
+E 303 304 180
+E 309 310 180
+E 311 313 300
+E 311 312 300
+E 311 314 300
+E 311 315 300
+E 312 313 300
+E 312 314 300
+E 312 315 300
+E 313 314 300
+E 313 315 300
+E 314 315 300
+E 325 327 240
+E 325 326 240
+E 326 327 240
+E 339 341 240
+E 339 340 240
+E 340 341 240
+E 342 344 240
+E 342 343 240
+E 343 344 240
+E 346 347 180
+E 354 355 180
+E 366 367 180
